@@ -1,0 +1,8 @@
+{
+  "name": "tg-reporter",
+  "version": "1.0.0",
+  "dependencies": {
+    "telegram": "^2.5.2",
+    "input": "^1.0.1"
+  }
+}
